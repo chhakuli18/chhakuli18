@@ -40,7 +40,7 @@ Here are some of my sample work repositories:
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** (add your link)
-- **Email:** (optional)
+- **LinkedIn:** https://www.linkedin.com/in/chhakuli-dhurjad-375889239
+- **Email:** chhakulindhurjad@gmail.com
 
 Thanks for visiting my profile! 😊  
