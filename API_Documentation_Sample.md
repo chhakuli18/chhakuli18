@@ -93,11 +93,13 @@ GET /flights/search?from=BOM&to=DEL&date=2025-02-10&adults=1
 | 500  | Server Error | Something went wrong  |
 
 <details>
-  <summary>Click to expand</summary>
-
+ <summary>Click to expand</summary>
+ 
 API Documentation Content
 
 </details>
+
+
 
 
 
