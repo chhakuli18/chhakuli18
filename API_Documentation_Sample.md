@@ -92,6 +92,10 @@ GET /flights/search?from=BOM&to=DEL&date=2025-02-10&adults=1
 | 404  | Not Found    | Resource not found    |
 | 500  | Server Error | Something went wrong  |
 
+??? note "Click to expand"
+    Hidden content here.
+
+
 
 
 
